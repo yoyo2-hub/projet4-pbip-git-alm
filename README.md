@@ -30,7 +30,7 @@ Vous travaillez sur les données de vente de l'entreprise fictive **AdventureWor
 ## 5. Structure du repo
 
 ```
-po3-projet04-pbip-git-alm/
+projet4-pbip-git-alm/
 ├── README.md
 ├── docs/
 │   ├── architecture.md          → schéma de votre organisation Git/environnements
@@ -71,7 +71,7 @@ Dans `docs/note-pedagogique.md`, structurez votre note selon ce plan (imposé po
 
 ## 9. Lien avec les autres projets du domaine
 
-- **Projet 5** (`po3-projet05-deployment-pipelines-cicd`) part conceptuellement d'une solution déjà versionnée comme la vôtre pour travailler le déploiement
-- **Projet 21** (`po3-projet21-tests-automatises-nonregression`) viendra ajouter des tests avant le déploiement
+- **Projet 5** (`projet5-deployment-pipelines-cicd`) part conceptuellement d'une solution déjà versionnée comme la vôtre pour travailler le déploiement
+- **Projet 21** (`projet21-tests-automatises-nonregression`) viendra ajouter des tests avant le déploiement
 
 ➡️ Documentez clairement votre structure et vos conventions : les autres équipes s'y réfèrent pour rester cohérentes.
