@@ -20,7 +20,7 @@ Vous travaillez sur les données de vente de l'entreprise fictive **AdventureWor
 
 ## 4. Comment démarrer
 
-1. **Point de départ :** vous n'avez pas à construire un nouveau rapport Power BI de zéro. Réutilisez un rapport `.pbix` déjà construit pendant vos TP/exercices sur la base AdventureWorks (par exemple un rapport simple avec quelques pages : CA par région, top produits, évolution mensuelle). S'il n'en existe pas un tout prêt, construisez-en un **volontairement simple** — l'objectif du projet n'est pas la richesse du rapport, mais la démonstration du processus autour de lui.
+1. **Point de départ :** vous n'avez pas à construire un nouveau rapport Power BI de zéro. Réutilisez un rapport `.pbix` déjà construit sur la base AdventureWorks (par exemple un rapport simple avec quelques pages : CA par région, top produits, évolution mensuelle). S'il n'en existe pas un tout prêt, construisez-en un **volontairement simple** — l'objectif du projet n'est pas la richesse du rapport, mais la démonstration du processus autour de lui.
 2. Convertissez ce rapport au format **PBIP** (Power BI Desktop → options → "Power BI Project (.pbip)").
 3. Initialisez ce repo Git et versionnez les fichiers PBIP obtenus.
 4. Définissez avec votre équipe une convention de nommage de branches et le rôle de "relecteur" sur les pull requests.
