@@ -1,4 +1,4 @@
-# po3-projet04-pbip-git-alm
+# projet4-pbip-git-alm
 
 ## Industrialiser un projet Power BI avec PBIP, Git, collaboration et environnements DEV–TEST–PROD
 
