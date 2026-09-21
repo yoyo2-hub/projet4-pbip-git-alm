@@ -2,7 +2,7 @@
 
 ## Industrialiser un projet Power BI avec PBIP, Git, collaboration et environnements DEV–TEST–PROD
 
-**Domaine :** DevOps, ALM & CI/CD — **Product Owner :** PO 3
+**Domaine :** DevOps, ALM & CI/CD — **Product Owner :** Chaima Dallel
 
 ---
 
